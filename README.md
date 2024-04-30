@@ -1,3 +1,7 @@
-Minimum Öklid Mesafesinin Hesaplanması.
+**Minimum Öklid Mesafesinin Hesaplanması.**
+
 Öklid mesafesi, Öklid uzayındaki iki nokta arasındaki "sıradan" düz çizgi mesafesidir.
-Bu formül ile, düzlemde veya üç boyutlu uzayda iki nokta arasındaki mesafeyi bulabilirsiniz.
+
+Verilen points listesi üzerindeki noktaların ikili kombinasyonu alınarak noktlar arasındaki en düşük mesafenin hesaplanmasını gerçekleştirir.
+
+ Bu çalışmada yalnızca 2 boyutlu düzlem üzerinden hesaplama gerçekleştirilmektedir.
